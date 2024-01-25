@@ -30,6 +30,7 @@ script {
 // Your deployment to dev commands here
 //sh 'echo "Deploying to dev environment"' // Example command
 echo 'Deploying to dev environment'
+  //wer
 } }
 } }
 post {
